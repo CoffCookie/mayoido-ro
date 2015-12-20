@@ -1,5 +1,8 @@
 結城浩の「マヨイドーロ問題」 https://codeiq.jp/q/2549 @codeiqさんから
 
+http://www.hyuki.com/codeiq/
+問題:http://www.hyuki.com/codeiq/pdf/2015-11-30_mayoi4938.pdf
+
 マヨイドーロの問題を解かせて頂きました。
 
 解き方
